@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVPDemon</string>
+    <string name="LoginActivity_name">登录界面</string>
+    <string name="MainActivity_name">首页</string>
+</resources>
